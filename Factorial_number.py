@@ -1,4 +1,4 @@
-num=5
+num=int(input("Enter Number to find factorial number: "))
 fact=1
 
 if num == 0 or num ==1:
